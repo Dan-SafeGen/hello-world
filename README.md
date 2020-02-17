@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-This is the changed red.me file - the branch called 'features'
+This is the changed read.me file - the branch called 'features'
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
